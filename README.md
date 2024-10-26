@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Satyam-2004
 - 👀 I’m interested in Aritical Intelligence and Machine learning
 - 🌱 I’m currently learning Deep learning modules
-- 📫 How to reach me - LinkdeIn
+- 📫 How to reach me - LinkedIn
 - 😄 Pronouns: He/him
 
 <!---
