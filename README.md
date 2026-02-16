@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satyam-2004
-- 👀 I’m interested in Aritical Intelligence and Machine learning
-- 🌱 I’m currently learning Deep learning modules
+- 👀 I’m interested in Backend, Microservices and System Programming
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me - LinkedIn
 - 😄 Pronouns: He/him
 
